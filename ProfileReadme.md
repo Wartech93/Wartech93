@@ -1,6 +1,6 @@
-# Hi there, I'm [Royce Atkins] 👋
+# Hi there, I'm Royce Atkins 👋
 
-![Your Banner Image](URL_TO_YOUR_BANNER_IMAGE)
+![Your Banner Image](./github-header-image.png)
 
 ## 🚀 About Me
 
