@@ -52,7 +52,7 @@ My personal portfolio website showcasing my skills and projects.
 ### EdX Bootcamp for Full Stack Flex Coding (June 2024)
 - Comprehensive training in full stack development covering both front-end and back-end technologies.
 
-
+![Screenshot](./edxCertificate.jpg)
 
 ---
 
