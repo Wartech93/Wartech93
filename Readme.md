@@ -34,7 +34,7 @@ A fully functional e-commerce website built with React, Node.js, and MongoDB.
 ### [Project 2: D&D Spell Compendium](https://github.com/ParryProgramming/404_Project_2)
 A tool for D&D players using a spell casting class in game.
 
-### [Project 3: Portfolio Website](https://github.com/Wartech93/ThisisRoyce)
+### [Project 3: Portfolio Website](https://github.com/Wartech93/animated-portfolio)
 My personal portfolio website showcasing my skills and projects.
 
 
